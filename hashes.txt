@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Besos en la penumbra
+
+This log tracks the cryptographic history and versioning for the song **Besos en la penumbra** (besos-en-la-penumbra).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-21T05:07:16.853789 | `v1` | `93c9c23194490db328c72e71e7e848fef5df2cca67ac1f07ccc1f4749e7867c5` | `e1c687c88491543054d5c553745421d6a812f09c7d89db7ce1435a8ba1a1e1ba` | `2026-06-21_besos-en-la-penumbra-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*

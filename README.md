@@ -15,7 +15,7 @@
 | **Written On** | June 09, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/besos-en-la-penumbra/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Get a Licensing Quote for Besos en la penumbra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-en-la-penumbra/) |
+| **Get License** | [License this song: Besos en la penumbra](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/besos-en-la-penumbra/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `93c9c23194490db328c72e71e7e848fef5df2cca67ac1f07ccc1f4749e7867c5` |
 | **Timestamp** | June 21, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
